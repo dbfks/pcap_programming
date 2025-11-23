@@ -34,7 +34,8 @@
 | Ethernet | IPv4 | TCP | HTTP |
 | --- | --- | --- | --- |
 
-![image.png](attachment:79fde934-39ce-4249-8b36-3907c4e9235c:image.png)
+
+<img width="546" height="246" alt="image" src="https://github.com/user-attachments/assets/0cc48c8e-2c9c-4e1d-9048-89f502e72c94" />
 
 [https://blog.naver.com/sujunghan726/220315439853] Ethernet Header
 
@@ -42,7 +43,8 @@
 - Destination MAC Address(dst mac) : 목적지 MAC 주소
 - Type : 상위 프로토콜 식별
 
-![[https://blog.naver.com/sujunghan726/220315439853] IP Header](attachment:38eb4401-3b69-4f66-bdb4-752e703cdea9:image.png)
+
+<img width="601" height="312" alt="image" src="https://github.com/user-attachments/assets/4b6745e2-d7e7-4956-b623-076eee5e4606" />
 
 [https://blog.naver.com/sujunghan726/220315439853] IP Header
 
@@ -59,7 +61,8 @@
 - Protocol Type : 상위 계층 프로토콜
 - Header Checksum : 헤더 오류 검출용 체크섬
 
-![image.png](attachment:3a074e21-3ac2-49d4-9330-346337d6f505:image.png)
+
+<img width="613" height="266" alt="image" src="https://github.com/user-attachments/assets/3faba11a-b1fe-401e-9d47-2c6a44f04f50" />
 
 - Source port(src port) : 출발지 포트 번호
 - Destination port(dst port) : 목적지 포트 번호
@@ -310,8 +313,9 @@ void got_packet(u_char *args, const struct pcap_pkthdr *header, const u_char *pa
 </aside>
 
 ## 실행 결과
+<img width="803" height="672" alt="image" src="https://github.com/user-attachments/assets/203eb953-e2c3-40ac-96ac-8d2decb8e4d8" />
 
-![image.png](attachment:c27dabfc-6943-4e88-8f39-b280323d9aed:image.png)
+
 
 <aside>
 
